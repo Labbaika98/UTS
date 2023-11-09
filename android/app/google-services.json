@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773884619127",
+    "project_id": "maslik-ba50c",
+    "storage_bucket": "maslik-ba50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773884619127:android:8f1d045563204724a25972",
+        "android_client_info": {
+          "package_name": "com.example.labbaika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773884619127-09qn0e7u0nsdgpbo3je6alnu9c92tc6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBYbsxAWIWtJz8eVL9k22NMFa2QE_VHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773884619127-09qn0e7u0nsdgpbo3je6alnu9c92tc6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
